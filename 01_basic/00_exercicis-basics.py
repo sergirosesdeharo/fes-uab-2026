@@ -8,7 +8,8 @@ print("Escriu un programa que imprimeixi el teu nom i la teva ciutat en línies 
 
 ### Completa aquí
 
-print("--------------")
+nom = "Sergi"
+ciutat = "Mollet"
 
 print("\nExercici 2: Mostra els tipus de dades de les variables següents:")
 print("Utilitza la comanda 'type()' per determinar el tipus de dades de cada variable.")
